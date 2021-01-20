@@ -1,0 +1,33 @@
+body{
+    background-color: #1c2e4a;
+    color: aliceblue;
+    font-family: monospace;
+
+}
+
+.border{
+    padding: 5%;
+}
+
+.col-md-6{
+    font-size: x-large;
+}
+
+.col-md-4{
+    text-align: center;
+    font-size: large;
+    padding: 2%;
+}
+
+.navbar{
+    text-align: center;
+}
+
+a.linkstilus :hover{
+    font-style: italic;
+}
+
+.img{
+    max-width: 30%;
+    border-color: rgb(9, 9, 43);
+}
