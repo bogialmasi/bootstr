@@ -1,5 +1,5 @@
 body{
-    background-color: #1c2e4a;
+    background-color: #1c3238;
     color: aliceblue;
     font-family: monospace;
 
@@ -21,13 +21,14 @@ body{
 
 .navbar{
     text-align: center;
-}
-
-a.linkstilus :hover{
     font-style: italic;
 }
 
-.img{
-    max-width: 30%;
-    border-color: rgb(9, 9, 43);
+.jumbotron{
+        background-image: url(jumbotronkep.jpg);
+        background-size: cover;
+        padding: 5%;
+        text-align: center;
+        color: black;
 }
+
